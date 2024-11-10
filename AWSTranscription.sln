@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSTranscription", "AWSTranscription.csproj", "{839858D8-9FE5-43F6-A240-5240E03562CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{839858D8-9FE5-43F6-A240-5240E03562CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839858D8-9FE5-43F6-A240-5240E03562CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839858D8-9FE5-43F6-A240-5240E03562CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839858D8-9FE5-43F6-A240-5240E03562CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C94FB81-E1A4-46DE-B31A-93772078215B}
+	EndGlobalSection
+EndGlobal
